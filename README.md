@@ -1,4 +1,4 @@
-# SchoolOfCodeDiary
+# School of Code Diary
 
 # WEEK 1
 2 days down, 15 weeks and 5 days to go!
