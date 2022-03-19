@@ -65,3 +65,18 @@ After 12 intensive weeks at the SOC, we have finally embarked on our final four-
 
 # WEEK 14
 -Our time at the SOC is slowly coming to an end. With only two weeks left to go, we've all been busy with final projects, cv’s and portfolios. I spent the weekend adding features onto Bookmark Index, an app I have slowly been working on. Being an avid reader, my book collection does tend to get out of hand every now and then. I wanted something that would allow me to see at a glance what books I own. Bookmark Index is an app that allows users to digitally store and organise their ever-expanding libraries. Amongst other things, the application allows a user to register and/or log in and then populate a digital bookshelf. It also allows users to view bookshelves of other users (all us bookworms are nosy by nature). Although I am still dealing with a few bugs on a number of features, it’s been really exciting to see my project slowly come to life! I’ll continue tweaking and adding features to it as I progress and learn more in the future. In the meantime, it’s back to the SOC for the grand finale of this amazing journey...
+
+# WEEK 15
+
+# WEEK 16
+It feels almost surreal to say that we have come to the end of our 16 week School Of Code journey!
+
+The experience has been simultaneously transformative and challenging. Coming into the program, I was a mixed bag of emotions. Unsure how to feel about being a beginner again. Every single week at the SOC we were paired with a new team member. The pace, volume and pressure was unrelenting, we often referred to it as drinking from the proverbial fire hose. We tackled code-wars and battled with Javascript, React and CSS.
+
+We honed our computational thinking skills, breaking problems down again and again till it became instinctive. Most importantly however, we learned how to learn, how to ask the right questions, read through documentation and scour stack overflow for answers.
+
+Over the weeks, feelings of uncertainty and imposter syndrome came and went, but SOC staff’s faith in us was absolutely unwavering. I think I speak for all of us when I say we are forever grateful to Chris Meah for his faith in SOC’s mission. A huge thank you too to our ever-patient, uncomplaining coaches Arshi, Liz, Hamza, Jasien, Abdullah, Dave, Jordan, Chris M , Helena, Kentleigh. To everyone else on the SOC team, thanks for all that you continue to do.
+
+A big well done to my fellow bootcampers and team members, you are an inspiring bunch! Good luck to us all. Last but not least, a huuuge thank you to my mentor George  for his steadfast support and guidance from the very first week!
+
+
